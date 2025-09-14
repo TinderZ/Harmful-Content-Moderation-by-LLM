@@ -114,8 +114,7 @@ A knowledge base and learning blog focused on exploring and learning **how to us
 本部分计划提供以下内容：
 
 -   使用上述API和模型的Python示例代码。
--   如何为Llama Guard准备数据并进行微调的教程。
--   构建一个简单的Web应用，集成内容审核功能。
+-   Coming Soon......
 
 欢迎关注本仓库的更新！
 
