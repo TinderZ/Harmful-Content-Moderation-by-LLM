@@ -67,7 +67,9 @@ A knowledge base and learning blog focused on exploring and learning **how to us
     -   **免费易用**：对于中低使用量的场景，API 是免费的，集成方便。
 -   **适用场景**：新闻网站评论区、在线论坛和社交媒体，用于识别和减少攻击性言论。
 
-### Llama Guard
+### Llama Guard 
+
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Llama%20Guard-brightgreen)](https://huggingface.co/meta-llama/Llama-Guard-4-12B)
 
 **Llama Guard** 是 Meta AI 开源的一款**专门用于保障人机对话安全的 LLM**。它本身就是一个经过指令微调（Instruction-tuned）的语言模型，用于分类用户输入和模型输出是否安全。
 
